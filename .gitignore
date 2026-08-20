@@ -1,0 +1,16 @@
+# model weights (hosted on Hugging Face instead)
+model/
+
+# data
+cleaned_darija_dataset.csv
+darija_dataset.csv
+data/full/
+
+# environment
+.env
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
